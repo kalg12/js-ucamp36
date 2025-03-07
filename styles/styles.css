@@ -1,5 +1,13 @@
 body {
-  background-color: #f2d2c7;
   margin: 0;
   padding: 0;
+}
+
+/* Aquí voy a configurar el botón amarillo a color rosa */
+.miBotonRosa {
+  background-color: #d79cd8;
+}
+
+.miBotonRosa:hover {
+  background-color: #56b616;
 }
